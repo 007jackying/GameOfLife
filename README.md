@@ -1,6 +1,10 @@
 # GameOfLife
 A Java implementation of John Conway's Game of Life simulation.
 
+
+Video tutorial:
+https://drive.google.com/drive/u/0/folders/1_T6OBjEfbJYV76SZTnSgvXROkkU_oUWp
+
 Steps to install:
 1. Download the GameOfLife.zip file
 2. Extract it in a folder
