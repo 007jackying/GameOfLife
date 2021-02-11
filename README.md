@@ -2,7 +2,7 @@
 A Java implementation of John Conway's Game of Life simulation.
 
 
-Video tutorial:
+Video demo:
 https://drive.google.com/drive/u/0/folders/1_T6OBjEfbJYV76SZTnSgvXROkkU_oUWp
 
 Steps to install:
